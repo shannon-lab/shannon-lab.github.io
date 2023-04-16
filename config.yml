@@ -6,6 +6,9 @@ Content:
             - js/*
             - css/*
             - contrib/**
+            - media/framework/github-logo.png
+            - media/framework/github-mark.png
+            - media/framework/github-mark-light.png
 
 Renderer:
     type: MooseDocs.base.MaterializeRenderer
