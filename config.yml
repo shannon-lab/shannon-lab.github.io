@@ -1,0 +1,20 @@
+Content:
+    - ${ROOT_DIR}/content
+    - moose_site_assets:
+        root_dir: ${MOOSE_DIR}/framework/doc/content
+        content:
+            - js/*
+            - css/*
+            - contrib/**
+
+Renderer:
+    type: MooseDocs.base.MaterializeRenderer
+    extra-css:
+        - css/shannonlab.css
+
+Extensions:
+    MooseDocs.extensions.navigation:
+        name: 4-STAR Research Group
+        repo: https://github.com/shannon-lab/
+    MooseDocs.extensions.appsyntax:
+        active: False
