@@ -17,7 +17,7 @@ Renderer:
 
 Extensions:
     MooseDocs.extensions.navigation:
-        name: 4-STAR Research Group
+        name: 4-STAR Group
         repo: https://github.com/shannon-lab/
     MooseDocs.extensions.appsyntax:
         active: False
