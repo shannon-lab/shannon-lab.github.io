@@ -1,4 +1,6 @@
-!config navigation breadcrumbs=False scrollspy=False search=False
+!config navigation breadcrumbs=False scrollspy=False search=False long-title=Fourth State Applications Research Laboratory
+
+# HOME style=visibility:hidden;
 
 !style halign=center fontsize=300%
 Fourth State Applications Research Laboratory
